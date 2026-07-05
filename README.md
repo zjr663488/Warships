@@ -95,7 +95,6 @@ images/000002.jpg
 images/000003.jpg
 ```
 
-If the current release package does not include split files, users may divide the dataset according to their experimental settings. To reproduce the setting in the associated paper, a stratified 6:2:2 split is recommended.
 
 ## Class Names
 
@@ -130,7 +129,6 @@ names:
   4: Battle Ship
 ```
 
-If split files are not provided, users can organize the dataset according to the requirements of the detection framework they use.
 
 ## Benchmark Models
 
